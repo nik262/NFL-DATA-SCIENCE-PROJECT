@@ -10,3 +10,8 @@
 ## Pitch Dimensions
 
 <img src="https://user-images.githubusercontent.com/79582928/222985894-351b71df-eb96-4ac7-8037-2aa2e3ea3e2e.png" width="450" height="300">
+
+
+## Distribution of Hang Times
+
+<img src="https://user-images.githubusercontent.com/79582928/224159892-695adde9-6d8c-494d-8e5b-5caee83b6c8f.png" width="450" height="300">
