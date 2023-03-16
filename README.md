@@ -15,3 +15,7 @@
 ## Distribution of Hang Times
 
 <img src="https://user-images.githubusercontent.com/79582928/224159892-695adde9-6d8c-494d-8e5b-5caee83b6c8f.png" width="450" height="300">
+
+## Machine Learning
+
+<img src="https://user-images.githubusercontent.com/79582928/225421212-c369bbc1-2940-4d5f-960c-aa6da3c16df8.png" width="300" height="300">
